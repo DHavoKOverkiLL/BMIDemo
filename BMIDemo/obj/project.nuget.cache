@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UujmwF/e7LPbqAzo4q7YCRCdrXdRZ/e4t92AKaOesGt+4Fr+l9tUEGLMjlq6RFSzXsHb771jBio0/4IWj4ZdAw==",
+  "dgSpecHash": "5nsoVDcy6Q/uyNVnh0mBTv63z0cqqSdPP8u52unHEJztq4EomvryP71J/k29PCWHg+i01EZ8tuXyXfaYQ2TowA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\BMIDemo\\BMIDemo\\BMIDemo.csproj",
+  "projectFilePath": "F:\\Projects\\BMIDemo\\BMIDemo\\BMIDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Buia\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Buia\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

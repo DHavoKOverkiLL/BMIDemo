@@ -32936,11 +32936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\BMIDemo\\BMIDemo\\BMIDemo.csproj",
+      "projectUniqueName": "F:\\Projects\\BMIDemo\\BMIDemo\\BMIDemo.csproj",
       "projectName": "BMIDemo",
-      "projectPath": "D:\\Projects\\BMIDemo\\BMIDemo\\BMIDemo.csproj",
+      "projectPath": "F:\\Projects\\BMIDemo\\BMIDemo\\BMIDemo.csproj",
       "packagesPath": "C:\\Users\\Buia\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\BMIDemo\\BMIDemo\\obj\\",
+      "outputPath": "F:\\Projects\\BMIDemo\\BMIDemo\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
